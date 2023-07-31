@@ -1,11 +1,27 @@
 title: Francesco Leopardi # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/profile_pic.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  <br>Francesco Leopardi is an undergraduate studenta at Boston University studying Economics and Data Science. He is originally from Italy but has moved various times between Italy, Switzerland, Saudi Arabia, and the USA.<br>
   Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <br>    <h2>Skills</h2>
+    <ul>
+        <li>Data Analysis</li>
+        <li>Microsoft Office</li>
+        <li>GSuite</li>
+        <li>SQL</li>
+        <li>R Programming Language</li>
+        <li>Python</li>
+        <li>Structured Thinking</li>
+        <li>Group Wrok</li>
+        <li>English</li>
+        <li>Italian</li>
+        <li>Spanish</li>
+        <li>German</li>
+        <li>Arabic</li>
+    </ul><br>
+  <a href="https://www.linkedin.com/in/francesco-leopardi-1ba6351a3/">View My LinkedIn Profile</a>
+  <a href="https://github.com/frangi2002">View My GitHub Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
