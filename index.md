@@ -2,10 +2,15 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Salary Predictions](/workspaces/frangi2002.github.io/html/Salary.html)
+<img src="images/Figure1.png"/>
+<img src="images/Figure2.png"/>
+<img src="images/Figure3.png"/>
+<img src="images/Figure4.png"/>
+<img src="images/Figure5.png"/>
+<img src="images/Figure6.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
