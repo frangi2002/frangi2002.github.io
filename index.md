@@ -4,7 +4,7 @@
 
 ### Github Projects
 
-[Salary Predictions](https://github.com/frangi2002/frangi2002.github.io/blob/main/html/Salary.html) \n
+[Salary Predictions](https://github.com/frangi2002/salary_prediction/blob/main/Salary.ipynb) 
 *Welcome to the Salary analysis exploration. Throughout this notebook I have used DecisionTreeRegression() to try to predict salaries based on certain variables (Gender, Race, Schooling, Country of origin, Years of Experience, Education Level, and Age).*
 <img src="images/Figure9.png"/>
 
@@ -22,11 +22,11 @@
 
 ---
 
-### Category Name 2
+### Certificates
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [Google Data Analytics Professional Certificate](https://coursera.org/share/8df420be487bd770b504246909a4db2a)
+- [Bloomberg Market Concepts (BMC)](https://portal.bloombergforeducation.com/certificates/T3iyLkvYXnwrbuJgLx11JuVk)
+- [Foundations: Data, Data, Everywhere](https://coursera.org/share/2e72dab851b91555c09876ddbf0cefb2)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
