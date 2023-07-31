@@ -2,23 +2,23 @@
 
 ---
 
-### Projects
+### Github Projects
 
-[Salary Predictions](/workspaces/frangi2002.github.io/html/Salary.html)
-<img src="images/Figure1.png"/>
-<img src="images/Figure2.png"/>
-<img src="images/Figure3.png"/>
-<img src="images/Figure4.png"/>
-<img src="images/Figure5.png"/>
-<img src="images/Figure6.png"/>
+[Salary Predictions](https://github.com/frangi2002/frangi2002.github.io/blob/main/html/Salary.html) \n
+*Welcome to the Salary analysis exploration. Throughout this notebook I have used DecisionTreeRegression() to try to predict salaries based on certain variables (Gender, Race, Schooling, Country of origin, Years of Experience, Education Level, and Age).*
+<img src="images/Figure9.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Sudoku Game](https://github.com/frangi2002/Sudoky_Project)
+*This repository contains a powerful and efficient Sudoku solver implemented in Python. The solver is capable of solving any 9x9 Sudoku puzzle, leveraging a recursive algorithm that explores possible solutions until it finds the correct one.*
+<img src="images/Sudokupic.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Image Recognition](https://github.com/frangi2002/YOLOv7-eleven58)
+*Welcome to the Trash Can Project repository, where we leverage the cutting-edge YOLOv7 image recognition model with a custom dataset to identify whether objects are recyclable or not. Our innovative startup idea aims to revolutionize waste management by empowering businesses and communities to create customizable solutions for efficient recycling* \n 
+<a href="https://www.eleven58.tech/">Visit eleven58's website</a>
+
+<img src="images/yolov7_pic.png"/>
 
 ---
 
