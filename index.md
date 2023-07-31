@@ -27,8 +27,7 @@
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/8df420be487bd770b504246909a4db2a)
 - [Bloomberg Market Concepts (BMC)](https://portal.bloombergforeducation.com/certificates/T3iyLkvYXnwrbuJgLx11JuVk)
 - [Foundations: Data, Data, Everywhere](https://coursera.org/share/2e72dab851b91555c09876ddbf0cefb2)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
 
 ---
 
